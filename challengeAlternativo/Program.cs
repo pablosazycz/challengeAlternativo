@@ -1,6 +1,7 @@
 using Microsoft.EntityFrameworkCore;
 using challengeAlternativo.Entities;
 using challengeAlternativo.Context;
+using Microsoft.AspNetCore.Mvc;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
